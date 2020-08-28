@@ -1,0 +1,32 @@
+{
+  "signup": [
+    {
+      "id": 1,
+      "name": "",
+      "email": "",
+      "password": "",
+      "confirmPassword": ""
+    },
+    {
+      "id": 2,
+      "name": "teste",
+      "email": "teste@teste.com",
+      "password": "Teste@123",
+      "confirmPassword": "Teste@123"
+    },
+    {
+      "id": 3,
+      "name": "teste3",
+      "email": "teste3@teste.com",
+      "password": "123",
+      "confirmPassword": "123"
+    },
+    {
+      "id": 4,
+      "name": "teste3",
+      "email": "teste3@teste.com",
+      "password": "123",
+      "confirmPassword": "123"
+    }
+  ]
+}

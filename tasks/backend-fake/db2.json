@@ -1,0 +1,6 @@
+{
+  "signup" : [
+    { "id": 1, "name": "", "email": "", "password": "", "confirmPassword": ""}
+  ]
+
+}
