@@ -7,6 +7,13 @@ import axios from 'axios';
 import { server, showError, showSuccess } from '../Common';
 
 export default class Auth extends Component {
+
+    componentDidMount() {
+        this.setState({
+            email: "fernanda@gmail.com",
+            password: "123456"
+        })
+    }
     
     state = {
         name: '',
